@@ -1,4 +1,6 @@
 body {
+  background-image: url(img/bgimg.jpg);
+  background-attachment: fixed;
   margin: 40px;
 }
 
